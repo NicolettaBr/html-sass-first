@@ -1,0 +1,18 @@
+$primary-color: lightcoral;
+$primary-font: 18px;
+$btn-font: 15px;
+
+
+h1, 
+h2{
+    color: $primary-color;
+}
+
+button{
+    background-color: $primary-color ;
+    font-size: $btn-font;
+}
+
+p{
+    font-size: $primary-font;
+}

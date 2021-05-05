@@ -1,1 +1,13 @@
+h1,
+h2 {
+  color: lightcoral;
+}
 
+button {
+  background-color: lightcoral;
+  font-size: 15px;
+}
+
+p {
+  font-size: 18px;
+}
